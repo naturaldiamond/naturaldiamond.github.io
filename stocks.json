@@ -1,0 +1,6 @@
+[
+{"sku":"SKU0001","name":"name1","category":"E","isForPreOrder":"1","isOnHand":"0","countAvailableForPreorder":"100","countAvailableOnHand":"0"},
+{"sku":"SKU0002","name":"name2","category":"E","isForPreOrder":"0","isOnHand":"0","countAvailableForPreorder":"0","countAvailableOnHand":"0"},
+{"sku":"SKU0003","name":"name3","category":"N","isForPreOrder":"0","isOnHand":"0","countAvailableForPreorder":"0","countAvailableOnHand":"0"},
+{"sku":"SKU0004","name":"name4","category":"N","isForPreOrder":"0","isOnHand":"1","countAvailableForPreorder":"0","countAvailableOnHand":"1"}
+]
