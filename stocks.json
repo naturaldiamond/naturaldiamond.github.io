@@ -1,56 +1,56 @@
 {
-  underMaintenace: false,
-  messages: {
-    success: 'Order has been made. You will be contacted soon',
-    fail: 'There seems to be a problem please contact us on our fb page <i>test</i>',
-    maintenance: '<b> We are currently under maintenance </b>'
-  },
-  categories: [
-    {
-      description: 'Earrings',
-      value: 'E',
-    },
-    {
-      description: 'Necklace',
-      value: 'N'
-    }
-  ],
-  stocks: [
-    {
-      sku: 'SKU0001',
-      name: 'name1',
-      category: 'E',
-      forPreOrder: true,
-      onHand: false,
-      availableForPreOrder: 100,
-      availableOnHand: 0
-    },
-    {
-      sku: 'SKU0002',
-      name: 'name2',
-      category: 'E',
-      forPreOrder: false,
-      onHand: false,
-      availableForPreOrder: 0,
-      availableOnHand: 0
-    },
-    {
-      sku: 'SKU0003',
-      name: 'name3',
-      category: 'N',
-      forPreOrder: false,
-      onHand: false,
-      availableForPreOrder: 0,
-      availableOnHand: 0
-    },
-    {
-      sku: 'SKU0004',
-      name: 'name4',
-      category: 'N',
-      forPreOrder: false,
-      onHand: true,
-      availableForPreOrder: 0,
-      availableOnHand: 1
-    }
-  ],
+   "underMaintenace": false,
+   "messages": {
+      "success": "Order has been made. You will be contacted soon",
+      "fail": "There seems to be a problem please contact us on our fb page <i>test<\/i>",
+      "maintenance": "<b> We are currently under maintenance <\/b>"
+   },
+   "categories": [
+      {
+         "description": "Earrings",
+         "value": "E"
+      },
+      {
+         "description": "Necklace",
+         "value": "N"
+      }
+   ],
+   "stocks": [
+      {
+         "sku": "SKU0001",
+         "name": "name1",
+         "category": "E",
+         "forPreOrder": true,
+         "onHand": false,
+         "availableForPreOrder": 100,
+         "availableOnHand": 0
+      },
+      {
+         "sku": "SKU0002",
+         "name": "name2",
+         "category": "E",
+         "forPreOrder": false,
+         "onHand": false,
+         "availableForPreOrder": 0,
+         "availableOnHand": 0
+      },
+      {
+         "sku": "SKU0003",
+         "name": "name3",
+         "category": "N",
+         "forPreOrder": false,
+         "onHand": false,
+         "availableForPreOrder": 0,
+         "availableOnHand": 0
+      },
+      {
+         "sku": "SKU0004",
+         "name": "name4",
+         "category": "N",
+         "forPreOrder": false,
+         "onHand": true,
+         "availableForPreOrder": 0,
+         "availableOnHand": 1
+      }
+   ]
 }
