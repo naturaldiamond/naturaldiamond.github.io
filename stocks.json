@@ -1,56 +1,63 @@
 {
-   "underMaintenace": false,
-   "messages": {
-      "success": "Order has been made. You will be contacted soon",
-      "fail": "There seems to be a problem please contact us on our fb page <i>test<\/i>",
-      "maintenance": "<b> We are currently under maintenance <\/b>"
-   },
-   "categories": [
-      {
-         "description": "Earrings",
-         "value": "E"
-      },
-      {
-         "description": "Necklace",
-         "value": "N"
-      }
-   ],
-   "stocks": [
-      {
-         "sku": "SKU0001",
-         "name": "name1",
-         "category": "E",
-         "forPreOrder": true,
-         "onHand": false,
-         "availableForPreOrder": 100,
-         "availableOnHand": 0
-      },
-      {
-         "sku": "SKU0002",
-         "name": "name2",
-         "category": "E",
-         "forPreOrder": false,
-         "onHand": false,
-         "availableForPreOrder": 0,
-         "availableOnHand": 0
-      },
-      {
-         "sku": "SKU0003",
-         "name": "name3",
-         "category": "N",
-         "forPreOrder": false,
-         "onHand": false,
-         "availableForPreOrder": 0,
-         "availableOnHand": 0
-      },
-      {
-         "sku": "SKU0004",
-         "name": "name4",
-         "category": "N",
-         "forPreOrder": false,
-         "onHand": true,
-         "availableForPreOrder": 0,
-         "availableOnHand": 1
-      }
-   ]
+	"underMaintenace": true,
+	"messages": {
+		"success": "Order has been made. You will be contacted soon !",
+		"fail": "There seems to be a problem please contact us on our fb page <i>https://www.facebook.com/naturaldiamondph<\/i>",
+		"maintenance": "<b> We are currently under maintenance .<\/b> Kindly contact us on our fb page <i>https://www.facebook.com/naturaldiamondph<\/i>"
+	},
+	"categories": [{
+			"description": "Earrings",
+			"value": "E"
+		},
+		{
+			"description": "Necklace",
+			"value": "N"
+		}
+	],
+	"stocks": [{
+			"sku": "SKU0001",
+			"name": "5-Pointer Diamond Stud Earrings in White Gold [18K WG 0.1CT DIA] - (Php 2,500)",
+			"category": "E",
+			"forPreOrder": true,
+			"onHand": false,
+			"availableForPreOrder": 100,
+			"availableOnHand": 0
+		},
+		{
+			"sku": "SKU0002",
+			"name": "5-Pointer Diamond Stud Earrings in Rose Gold [18K RG 0.1CT DIA] - (Php 2,500)",
+			"category": "E",
+			"forPreOrder": false,
+			"onHand": false,
+			"availableForPreOrder": 0,
+			"availableOnHand": 0
+		},
+		{
+			"sku": "SKU0003",
+			"name": "5-Pointer Diamond Stud Earrings in Yellow Gold [18K YG 0.1CT DIA] - (Php 2,500)",
+			"category": "E",
+			"forPreOrder": false,
+			"onHand": false,
+			"availableForPreOrder": 0,
+			"availableOnHand": 0
+		},
+		{
+			"sku": "SKU0004",
+			"name": "20-Pointer Diamond Heart & Arrows Stud Earrings in Rose Gold [18K RG 0.4CT DIA] - (Php 6,950)",
+			"category": "E",
+			"forPreOrder": false,
+			"onHand": false,
+			"availableForPreOrder": 0,
+			"availableOnHand": 0
+		},
+		{
+			"sku": "SKU0005",
+			"name": "1ct Diamond Heart Earrings in Yellow Gold - (Php 27,500)",
+			"category": "E",
+			"forPreOrder": false,
+			"onHand": true,
+			"availableForPreOrder": 0,
+			"availableOnHand": 1
+		}
+	]
 }
