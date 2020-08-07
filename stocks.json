@@ -2,16 +2,12 @@
 	"underMaintenace": false,
 	"messages": {
 		"success": "Order has been made. You will be contacted soon !",
-		"fail": "There seems to be a problem please contact us on our fb page <i>https://www.facebook.com/naturaldiamondph<\/i>",
+		"fail": "There seems to be a problem... <\/b> Kindly contact us on <a href='https://www.facebook.com/naturaldiamondph'>facebook</a>",
 		"maintenance": "<b> We are currently under maintenance .<\/b> Kindly contact us on <a href='https://www.facebook.com/naturaldiamondph'>facebook</a>"
 	},
 	"categories": [{
 			"description": "Earrings",
 			"value": "E"
-		},
-		{
-			"description": "Necklace",
-			"value": "N"
 		}
 	],
 	"stocks": [{
@@ -23,9 +19,8 @@
 			"availableForPreOrder": 100,
 			"availableOnHand": 0,
 			"images": [
-				"https://picsum.photos/id/237/200",
-				"https://picsum.photos/id/1023/200",
-				"https://picsum.photos/id/1043/200"
+				"https://naturaldiamond.github.io/img/SKU0001_1.jpg",
+				"https://naturaldiamond.github.io/img/SKU0001_2.jpg"
 			]
 		},
 		{
@@ -60,9 +55,9 @@
 			"name": "1ct Diamond Heart Earrings in Yellow Gold - (Php 27,500)",
 			"category": "E",
 			"forPreOrder": false,
-			"onHand": true,
+			"onHand": false,
 			"availableForPreOrder": 0,
-			"availableOnHand": 1
+			"availableOnHand": 0
 		}
 	]
 }
