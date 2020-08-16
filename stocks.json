@@ -14,10 +14,10 @@
 			"sku": "SKU0001",
 			"name": "5-Pointer Diamond Stud Earrings in White Gold [18K WG 0.1CT DIA] - (Php 2,500)",
 			"category": "E",
-			"forPreOrder": true,
-			"onHand": false,
-			"availableForPreOrder": 100,
-			"availableOnHand": 0,
+			"forPreOrder": false,
+			"onHand": true,
+			"availableForPreOrder": 0,
+			"availableOnHand": 100,
 			"images": [
 				"https://naturaldiamond.github.io/img/SKU0001_1.jpg",
 				"https://naturaldiamond.github.io/img/SKU0001_2.jpg"
@@ -27,18 +27,18 @@
 			"sku": "SKU0002",
 			"name": "5-Pointer Diamond Stud Earrings in Rose Gold [18K RG 0.1CT DIA] - (Php 2,500)",
 			"category": "E",
-			"forPreOrder": false,
+			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 0,
+			"availableForPreOrder": 100,
 			"availableOnHand": 0
 		},
 		{
 			"sku": "SKU0003",
 			"name": "5-Pointer Diamond Stud Earrings in Yellow Gold [18K YG 0.1CT DIA] - (Php 2,500)",
 			"category": "E",
-			"forPreOrder": false,
+			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 0,
+			"availableForPreOrder": 100,
 			"availableOnHand": 0
 		},
 		{
