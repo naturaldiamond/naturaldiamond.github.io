@@ -45,18 +45,18 @@
 			"sku": "SKU0004",
 			"name": "20-Pointer Diamond Heart & Arrows Stud Earrings in Rose Gold [18K RG 0.4CT DIA] - (Php 6,950)",
 			"category": "E",
-			"forPreOrder": false,
+			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 0,
+			"availableForPreOrder": 20,
 			"availableOnHand": 0
 		},
 		{
 			"sku": "SKU0005",
 			"name": "1ct Diamond Heart Earrings in Yellow Gold - (Php 27,500)",
 			"category": "E",
-			"forPreOrder": false,
+			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 0,
+			"availableForPreOrder": 10,
 			"availableOnHand": 0
 		}
 	]
