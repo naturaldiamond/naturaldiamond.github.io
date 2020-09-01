@@ -8,6 +8,10 @@
 	"categories": [{
 			"description": "Earrings",
 			"value": "E"
+		},
+		{
+			"description": "PasaBUY (Available on December)",
+			"value": "P"
 		}
 	],
 	"stocks": [{
@@ -122,6 +126,24 @@
 				"https://naturaldiamond.github.io/img/SKU0011_1.jpeg",
 				"https://naturaldiamond.github.io/img/SKU0011_2.jpeg"
 			]
+		},
+		{
+			"sku": "SKU0050",
+			"name": "iPhone SE 2020 64GB Black/White/Red w/ Hong Kong Warranty - (Php 25,000)",
+			"category": "P",
+			"forPreOrder": true,
+			"onHand": false,
+			"availableForPreOrder": 1,
+			"availableOnHand": 0
+		},
+		{
+			"sku": "SKU0050",
+			"name": "Samsung Note 10+ N9750 12GB+256GB Snapdragon w/ Hong Kong Warranty - (Php 42,000)",
+			"category": "P",
+			"forPreOrder": true,
+			"onHand": false,
+			"availableForPreOrder": 1,
+			"availableOnHand": 0
 		}
 	]
 }
