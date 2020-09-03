@@ -21,7 +21,7 @@
 			"forPreOrder": false,
 			"onHand": true,
 			"availableForPreOrder": 0,
-			"availableOnHand": 80,
+			"availableOnHand": 77,
 			"images": [
 				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg",
 				"https://naturaldiamond.github.io/img/SKU0001_3.jpg"
@@ -128,22 +128,28 @@
 			]
 		},
 		{
-			"sku": "SKU0050",
+			"sku": "SKU0051",
 			"name": "iPhone SE 2020 64GB Black/White/Red w/ Hong Kong Warranty - (Php 25,000)",
 			"category": "P",
 			"forPreOrder": true,
 			"onHand": false,
 			"availableForPreOrder": 1,
-			"availableOnHand": 0
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0051_1.jpg"
+			]
 		},
 		{
-			"sku": "SKU0050",
+			"sku": "SKU0052",
 			"name": "Samsung Note 10+ N9750 12GB+256GB Snapdragon w/ Hong Kong Warranty - (Php 42,000)",
 			"category": "P",
 			"forPreOrder": true,
 			"onHand": false,
 			"availableForPreOrder": 1,
-			"availableOnHand": 0
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0052_1.jpg"
+			]
 		}
 	]
 }
