@@ -21,9 +21,10 @@
 			"forPreOrder": false,
 			"onHand": true,
 			"availableForPreOrder": 0,
-			"availableOnHand": 77,
+			"availableOnHand": 30,
 			"images": [
 				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg",
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png",
 				"https://naturaldiamond.github.io/img/SKU0001_3.jpg"
 			]
 		},
@@ -34,7 +35,10 @@
 			"forPreOrder": true,
 			"onHand": false,
 			"availableForPreOrder": 100,
-			"availableOnHand": 0
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
 		},
 		{
 			"sku": "SKU0003",
@@ -43,7 +47,11 @@
 			"forPreOrder": true,
 			"onHand": false,
 			"availableForPreOrder": 100,
-			"availableOnHand": 0
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
+			
 		},
 		{
 			"sku": "SKU0004",
@@ -51,10 +59,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 10,
+			"availableForPreOrder": 2,
 			"availableOnHand": 0,
 			"images": [
-				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg"
+				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg",
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
 			]
 		},
 		{
@@ -63,8 +72,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 10,
-			"availableOnHand": 0
+			"availableForPreOrder": 2,
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
 		},
 		{
 			"sku": "SKU0006",
@@ -72,8 +84,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 10,
-			"availableOnHand": 0
+			"availableForPreOrder": 2,
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
 		},
 		   {
 			"sku": "SKU0007",
@@ -81,10 +96,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 5,
+			"availableForPreOrder": 1,
 			"availableOnHand": 0,
 			"images": [
-				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg"
+				"https://naturaldiamond.github.io/img/SKU0001_AllStuds.jpg",
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
 			]
 		},
 		{
@@ -93,8 +109,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 5,
-			"availableOnHand": 0
+			"availableForPreOrder": 1,
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
 		},
 		{
 			"sku": "SKU0009",
@@ -102,8 +121,11 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 5,
-			"availableOnHand": 0
+			"availableForPreOrder": 1,
+			"availableOnHand": 0,
+			"images": [
+				"https://naturaldiamond.github.io/img/SKU0001_Girl.png"
+			]
 		},
 		{
 			"sku": "SKU0010",
@@ -111,7 +133,7 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 20,
+			"availableForPreOrder": 2,
 			"availableOnHand": 0
 		},
 		{
@@ -120,7 +142,7 @@
 			"category": "E",
 			"forPreOrder": true,
 			"onHand": false,
-			"availableForPreOrder": 10,
+			"availableForPreOrder": 1,
 			"availableOnHand": 0,
 			"images": [
 				"https://naturaldiamond.github.io/img/SKU0011_1.jpeg",
